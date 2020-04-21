@@ -8,11 +8,9 @@ This program solves a maze with the help of several search algorithms like ***GB
 
 The generated file contains the information about maze. Each maze has the following attributes
 
-- Maze Size
-This gives the dimension of the maze. Contains in the format of rows and columns in a given matrix
+- Maze Size; This gives the dimension of the maze. Contains in the format of rows and columns in a given matrix
 - Wall Locations
-- Trap Locations
-Both the wall and trap locations are randomly generated and are randomly distributed throughout the maze. Solver will be penalised for getting into trap which would ultimately result in increase of cost.
+- Trap Locations; Both the wall and trap locations are randomly generated and are randomly distributed throughout the maze. Solver will be penalised for getting into trap which would ultimately result in increase of cost.
 
 - Goal Locations
 - Start Location

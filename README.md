@@ -15,7 +15,7 @@ The generated file contains the information about maze. Each maze has the follow
 - Goal Locations
 - Start Location
 
-![img](https://drive.google.com/open?id=1z9O8vYakwp9ymkWYD4LwtYUFTBFewRW0)
+![img](https://ibb.co/Hd8YZK5)
 
 After generating and feeding the file into algorithms, they search for an optimal path. In this project, we mainly focused on these three algorithms. 
 

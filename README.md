@@ -24,4 +24,17 @@ After generating and feeding the file into algorithms, they search for an optima
 
 I have develpoed epsilon Greedy-Best-First search inspiring from the epsilon based Reinforcement Learning. eGBFS outperforms the both IDS and GBFS in obtaining optimal cost.
 
+## Experiment
+
+* ``gen.py -arg1 -arg2``
+
+Running this program with the two arguments would generate the maze with the desired dimension. arg1 and arg2 are the rows and columns of a maze.
+
+* ``run.py``
+
+This file would generate and save the results of the three algorithms for different dimensions. Saved results are stored in ***results.csv*** file.
+
+* ``results_plot.py``
+
+Running this file would create the plots from the obtained results.
 

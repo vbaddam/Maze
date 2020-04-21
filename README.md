@@ -15,7 +15,7 @@ The generated file contains the information about maze. Each maze has the follow
 - Goal Locations
 - Start Location
 
-![img](http://www.mazegenerator.net/ImageGenerator.ashx?Tag=20200421072612&MazeType=1&Solution=0)
+![img](https://drive.google.com/open?id=1z9O8vYakwp9ymkWYD4LwtYUFTBFewRW0)
 
 After generating and feeding the file into algorithms, they search for an optimal path. In this project, we mainly focused on these three algorithms. 
 

@@ -14,6 +14,7 @@ f.close()
 
 
 
+
 sequence = [i for i in range(int(r)-1)]
 r = len(sequence)
 f = open('maze3.txt', 'a')
